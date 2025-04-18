@@ -35,6 +35,5 @@ def main() -> None:
     print("All asserts passed!")
 
 
-
 if __name__ == '__main__':
     main()
